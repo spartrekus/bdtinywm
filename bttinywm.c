@@ -1,6 +1,6 @@
 
 
-// finetinywm 
+//   
 // features border with "D" and "0" keys
 // Win4 C Console
 // Win4 W Close Window 
